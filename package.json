@@ -1,0 +1,35 @@
+{
+  "name": "newman-reporter-junitcustomcollection",
+  "version": "1.0.2",
+  "description": "A Newman JUnit Reporter providing custom collection name",
+  "main": "index.js",
+  "bundleDependencies": false,
+  "dependencies": {
+    "lodash": "^4.17.10",
+    "moment": "^2.22.2",
+    "xmlbuilder": "^10.0.0"
+  },
+  "deprecated": false,
+  "homepage": "https://github.com/langthang/newman-reporter-junitcustomcollection.git",
+  "keywords": [
+    "newman",
+    "reporter",
+    "junit"
+  ],
+  "author": {
+    "name": "lang thang",
+    "email": "vnlangthang@gmail.com"
+  },
+  "license": "Apache-2.0",
+  "engines": {
+    "node": ">=6"
+  },
+  "preferGlobal": true,
+  "bugs": {
+    "url": "https://github.com/langthang/newman-reporter-junitcustomcollection.git"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/langthang/newman-reporter-junitcustomcollection.git"
+  }
+}

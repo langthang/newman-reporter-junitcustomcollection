@@ -1,0 +1,5 @@
+# Newman JUnit Custom Collection Name Reporter Changelog
+1.0.0:
+  date: 2019-12-20
+  initial release:
+    - 'Initial newman-reporter-junitcustomcollection release based on JUnit report in newman'

@@ -1,6 +1,6 @@
 {
   "name": "newman-reporter-junitcustomcollection",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A Newman JUnit Reporter providing custom collection name",
   "main": "index.js",
   "bundleDependencies": false,
